@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'DMovie - Netflix Like VueJs Website Template',
+    title: 'RLTS - Red List of Threatened Species',
     htmlAttrs: {
       lang: 'en'
     },

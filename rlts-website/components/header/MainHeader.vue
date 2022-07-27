@@ -2,9 +2,16 @@
 
     <div class="flex justify-between flex-col md:flex-row items-center px-[15px] md:px-[30px] xl:px-[50px] 2xl:px-[100px] mx-auto py-5 lg:py-[0px] shadow-[0_2px_18px_rgba(0,0,0,0.1)] z-999 w-full bg-[#000000]">
 
-        <div class="flex items-center">
-          <h2 class="font-bold -mt-[5px] block relative text-[18px] md:text-[20px] lg:text-[24px] leading-[1]" >
+        <div class="items-center">
+          <h2 class="font-bold mt-[25px] mb-[25px] block relative text-[18px] md:text-[20px] lg:text-[24px] leading-[1]" >
             More than 41,000 species are threatened with extinction </h2>
+          <h2 class="font-bold mt-[25px] mb-[5px]  mr-[125px] block relative text-[18px] md:text-[20px] lg:text-[24px] leading-[1]" >
+            We will record all RLTS species based on IPFS/Filecoin</h2>
+          <h2 class="font-bold  mb-[25px] block relative text-[18px] md:text-[20px] lg:text-[24px] leading-[1]" >
+            To enrich the pictures, videos and other information of each species</h2>
+
+          <h2 class="font-bold mt-[25px] mb-[25px] block relative text-[18px] md:text-[20px] lg:text-[24px] leading-[1]" >
+            We hope to build DAO and NFT to support all species.</h2>
         </div>
 
         <div class="flex items-center mt-4 md:mt-0">
