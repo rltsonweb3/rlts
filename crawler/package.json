@@ -1,0 +1,21 @@
+{
+  "name": "seeyou",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "devDependencies": {
+    "@web-std/fetch": "^3.0.3",
+    "request": "^2.88.2"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "nft.storage": "^6.4.1"
+  }
+}
