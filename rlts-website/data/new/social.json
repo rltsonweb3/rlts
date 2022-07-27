@@ -1,0 +1,22 @@
+[
+    {
+        "url": "https://www.facebook.com/",
+        "iconName": "zmdi zmdi-facebook",
+        "mediaName": "facebook"
+    },
+    {
+        "url": "https://www.twitter.com/",
+        "iconName": "zmdi zmdi-twitter",
+        "mediaName": "twitter"
+    },
+    {
+        "url": "https://www.linkedin.com/",
+        "iconName": "zmdi zmdi-linkedin",
+        "mediaName": "linkedin"
+    },
+    {
+        "url": "https://www.instagram.com/",
+        "iconName": "zmdi zmdi-instagram",
+        "mediaName": "instagram"
+    }
+]

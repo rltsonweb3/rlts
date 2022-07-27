@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body { 
+        @apply relative font-poppins text-[16px] leading-6 text-dark;
+    }
+    img { @apply max-w-full inline-block}
+    p { @apply mb-4 last:mb-0 leading-[2] text-[16px]}
+    li { @apply last:mr-0;}
+    a, button { @apply cursor-pointer no-underline inline-block}
+    a, button, img, input, span{ @apply transition-all duration-300}
+    *:focus{ @apply shadow-none outline-0}
+}
+
+@layer utilities {
+
+}
+
+@layer components {
+
+}

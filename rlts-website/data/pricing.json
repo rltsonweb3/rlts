@@ -1,0 +1,94 @@
+[
+    {
+        "freePack": true,
+        "pack": "Free Pack",
+        "avgPrice": "$0.00",
+        "aboutPkg": "Free",
+        "listdata":[
+            {
+                "text": "laboris nisi ut pariatur."
+            },
+            {
+                "text": "Secure Service"
+            },
+            {
+                "text": "laboris nisi ut pariatur."
+            },
+            {
+                "text": "70 Cup of coffee"
+            },
+            {
+                "text": "Awesome Support"
+            },
+            {
+                "text": "Offline Download"
+            },
+            {
+                "text": "nam aliquam"
+            }
+        ],
+        "btnLink": "/contact",
+        "btnText": "Choose A Plan"
+    },
+    {
+        "freePack": false,
+        "avgPrice": "$100",
+        "aboutPkg": "Premium",
+        "defaultclass": "default",
+        "listdata":[
+            {
+                "text": "laboris nisi ut pariatur."
+            },
+            {
+                "text": "Secure Service"
+            },
+            {
+                "text": "laboris nisi ut pariatur."
+            },
+            {
+                "text": "200 Cup of coffee"
+            },
+            {
+                "text": "Awesome Support"
+            },
+            {
+                "text": "Offline Download"
+            },
+            {
+                "text": "nam aliquam"
+            }
+        ],
+        "btnLink": "/contact",
+        "btnText": "Choose A Plan"
+    },
+    {
+        "freePack": false,
+        "avgPrice": "$200",
+        "aboutPkg": "Standard",
+        "listdata":[
+            {
+                "text": "laboris nisi ut pariatur."
+            },
+            {
+                "text": "Secure Service"
+            },
+            {
+                "text": "laboris nisi ut pariatur."
+            },
+            {
+                "text": "500 Cup of coffee"
+            },
+            {
+                "text": "Awesome Support"
+            },
+            {
+                "text": "Offline Download"
+            },
+            {
+                "text": "nam aliquam"
+            }
+        ],
+        "btnLink": "/contact",
+        "btnText": "Choose A Plan"
+    }
+]

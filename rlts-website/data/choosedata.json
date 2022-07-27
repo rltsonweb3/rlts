@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Why choose us",
+        "text": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut laqua. Ut enim ad minim veniam, quis",
+        "textTwo": "Lorem ipsut amet, consectetur adipisicing elit, sed do irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint oecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis",
+        "imgSrc": "/images/about/01.jpg",
+        "listsData": [
+            {
+                "title": "Our Mission",
+                "textOne": "Lorem ipsut amet, consectetur adipisicing elit, sed do irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint oecat cupidatat non proident, sununt .",
+                "numbers": [
+                    {
+                        "name": "Mod tempor incididunt ut laqua."
+                    },
+                    {
+                        "name": "Mod tempor incididunt ut laqua."
+                    },
+                    {
+                        "name": "Mod tempor incididunt ut laqua."
+                    }
+                ]
+            },
+            {
+                "title": "Our Objective",
+                "textOne": "Lorem ipsut amet, consectetur adipisicing elit, sed do irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint oecat cupidatat non proident, sununt .",
+                "textTwo": "reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt"
+            },
+            {
+                "title": "Our Achievement",
+                "textOne": "Lorem ipsut amet, consectetur adipisicing elit, sed do irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint oecat cupidatat non proident, sununt .",
+                "textTwo": "reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt"
+            }
+        ]
+    }
+]

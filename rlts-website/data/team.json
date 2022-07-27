@@ -1,0 +1,94 @@
+[
+    {
+        "imgSrc":"/images/team/team-01.png",
+        "name": "Reza Karim",
+        "Subtitle": "Programer",
+        "socialData": [
+            {
+                "url":"https://www.facebook.com/",
+                "className": "zmdi zmdi-facebook"
+            },
+            {
+                "url":"https://twitter.com/",
+                "className": "zmdi zmdi-twitter"
+            },
+            {
+                "url":"https://www.linkedin.com/",
+                "className": "zmdi zmdi-linkedin"
+            },
+            {
+                "url":"https://www.instagram.com/",
+                "className": "zmdi zmdi-instagram"
+            }
+        ]
+    },
+    {
+        "imgSrc":"/images/team/team-02.png",
+        "name": "Shan Morbel",
+        "Subtitle": "Designer",
+        "socialData": [
+            {
+                "url":"https://www.facebook.com/",
+                "className": "zmdi zmdi-facebook"
+            },
+            {
+                "url":"https://twitter.com/",
+                "className": "zmdi zmdi-twitter"
+            },
+            {
+                "url":"https://www.linkedin.com/",
+                "className": "zmdi zmdi-linkedin"
+            },
+            {
+                "url":"https://www.instagram.com/",
+                "className": "zmdi zmdi-instagram"
+            }
+        ]
+    },
+    {
+        "imgSrc":"/images/team/team-03.png",
+        "name": "Marl Joni",
+        "Subtitle": "Video Editor",
+        "socialData": [
+            {
+                "url":"https://www.facebook.com/",
+                "className": "zmdi zmdi-facebook"
+            },
+            {
+                "url":"https://twitter.com/",
+                "className": "zmdi zmdi-twitter"
+            },
+            {
+                "url":"https://www.linkedin.com/",
+                "className": "zmdi zmdi-linkedin"
+            },
+            {
+                "url":"https://www.instagram.com/",
+                "className": "zmdi zmdi-instagram"
+            }
+        ]
+    },
+    {
+        "imgSrc":"/images/team/team-04.png",
+        "name": "Jack Marland",
+        "Subtitle": "Writter",
+        "socialData": [
+            {
+                "url":"https://www.facebook.com/",
+                "className": "zmdi zmdi-facebook"
+            },
+            {
+                "url":"https://twitter.com/",
+                "className": "zmdi zmdi-twitter"
+            },
+            {
+                "url":"https://www.linkedin.com/",
+                "className": "zmdi zmdi-linkedin"
+            },
+            {
+                "url":"https://www.instagram.com/",
+                "className": "zmdi zmdi-instagram"
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "url": "/home",
+        "name": "Home"
+    },
+    {
+        "url": "/series",
+        "name": "Series",
+        "submenu":[
+            {
+                "url": "/series/horror",
+                "name": "Horror Series"
+            },
+            {
+                "url": "/series/romantic",
+                "name": "Romantic Series"
+            }
+        ]
+    },
+    {
+        "url": "/movie",
+        "name": "Movies",
+        "submenu":[
+            {
+                "url": "/movie/horror",
+                "name": "Horror Movies"
+            },
+            {
+                "url": "/movie/romantic",
+                "name": "Romantic Movies"
+            }
+        ]
+    },
+    {
+        "url": "",
+        "name": "Pages",
+        "submenu":[
+            {
+                "url": "/about",
+                "name": "About Us"
+            },
+            {
+                "url": "/pricing",
+                "name": "Pricing"
+            },
+            {
+                "url": "/faq",
+                "name": "Faq"
+            },
+            {
+                "url": "/profile",
+                "name": "My Profile"
+            },
+            {
+                "url": "/account",
+                "name": "My Account"
+            },
+            {
+                "url": "/",
+                "name": "Landing Page"
+            }
+        ]
+    },
+    {
+        "url": "/pricing",
+        "name": "Pricing"
+    },
+    {
+        "url": "/contact",
+        "name":"Contact"
+    }
+]

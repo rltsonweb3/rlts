@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Report a Bug",
+        "mainlink": "/home"
+    },
+    {
+        "name": "Request a Feature",
+        "mainlink": "/about"
+    },
+    {
+        "name": "Content Grievance",
+        "mainlink": "/home"
+    },
+    {
+        "name": "Movie Request",
+        "mainlink": "/home"
+    },
+    {
+        "name": "Submit Your Story",
+        "mainlink": "/contact"
+    },
+    {
+        "name": "Privacy Policy",
+        "mainlink": "/home"
+    },
+    {
+        "name": "Terms of Services",
+        "mainlink": "/contact"
+    },
+    {
+        "name": "Support",
+        "mainlink": "/contact"
+    }
+]
