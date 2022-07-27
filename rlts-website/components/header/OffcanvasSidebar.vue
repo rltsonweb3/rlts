@@ -12,9 +12,6 @@
                 </div>
             </div>
 
-            <div class="menu-content">
-                <MobileMenu />
-            </div>
         </div>
     </div>
 </template>
@@ -22,7 +19,6 @@
 <script>
 export default {
     components: {
-        MobileMenu: () => import('@/components/header/MobileMenu'),
     },
     data() {
         return {

@@ -3,7 +3,7 @@
         <SectionTitle
             secTionMargin="border-b-1 border-[#444444]"
             titleClass="text-white"
-            title="Watch With Family"
+            title="EN-Endangered (16094)"
         />
         <div class="familymovie-area relative">
             <Swiper :options="familyMoviesOption">

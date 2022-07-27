@@ -20,22 +20,18 @@
         <div class="container-fluid px-4 xl:px-10 2xl:px-[100px] py-[50px] bg-[#000000]">
             <OldMovie />
         </div>
-
-        <HeroTwo
-            :PageLink="'movie'"
-        />
-
         <div class="container-fluid px-4 xl:px-10 2xl:px-[100px] py-[50px] bg-[#000000]">
             <WatchWithFamilyMovie />
+        </div>
+        <div class="container-fluid px-4 xl:px-10 2xl:px-[100px] py-[50px] bg-[#000000]">
+          <AwardedMovie />
         </div>
 
         <SeriesBannerOne 
             :PageLink="'series'"
         />
 
-        <div class="container-fluid px-4 xl:px-10 2xl:px-[100px] py-[50px] bg-[#000000]">
-            <AwardedMovie />
-        </div>
+
 
         <div class="container-fluid px-4 xl:px-10 2xl:px-[100px] py-[20px] bg-[#12222d] border-t-1 border-[#203544] shadow-[0_0_10px_rgba(0,0,0,0.3)]">
             <FooterBottom/>

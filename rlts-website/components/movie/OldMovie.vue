@@ -3,7 +3,7 @@
         <SectionTitle
             secTionMargin="border-b-1 border-[#444444]"
             titleClass="text-white"
-            title="Old Movies"
+            title="CR-Critically Endangered (9065)"
         />
         <div class="oldmovie-area relative">
             <Swiper :options="oldMoviesOption">

@@ -3,7 +3,7 @@
         <SectionTitle
             secTionMargin="border-b-1 border-[#444444]"
             titleClass="text-white"
-            title="Latest Movies"
+            title="EX-Extinct (902)"
         />
         <div class="upcoming-area relative">
             <Swiper :options="recentMoviesOption">

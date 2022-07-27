@@ -3,7 +3,7 @@
         <SectionTitle
             secTionMargin="border-b-1 border-[#444444]"
             titleClass="text-white"
-            title="Horror Series"
+            title="EW-Extinct In The Wild (82)"
         />
         <div class="horror-series relative">
             <Swiper :options="horrorSeriesOption">

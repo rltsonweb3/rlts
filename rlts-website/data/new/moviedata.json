@@ -93,7 +93,7 @@
     {
         "id": 3,
         "singleImage": "/images/product/movie-03.jpg",
-        "comboPackSlider": true,
+        "romanticSlider": true,
         "newprice": "270Tk",
         "oldprice": "300Tk",
         "title": "Dog and Human Friendship",
@@ -142,7 +142,7 @@
     {
         "id": 4,
         "singleImage": "/images/product/movie-04.jpg",
-        "comboPackSlider": true,
+        "romanticSlider": true,
         "newprice": "450Tk",
         "oldprice": "500Tk",
         "title": "Never Stop protecting",

@@ -3,7 +3,7 @@
         <SectionTitle
             secTionMargin="border-b-1 border-[#444444]"
             titleClass="text-white"
-            title="Award Winning Movies"
+            title="NT or LR/nt-Near Threatened (8714) "
         />
         <div class="awardedmovie-area relative">
             <Swiper :options="awardedMoviesOption">
