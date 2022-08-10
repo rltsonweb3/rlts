@@ -15,7 +15,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://www.iucnredlist.org/" target={"_blank"}>Global Ecological Protection!</a>
+          Welcome to <a href="https://www.iucnredlist.org/" rel={"noreferrer"} target={"_blank"}>Global Ecological Protection!</a>
         </h1>
 
         <p className={styles.description}>
