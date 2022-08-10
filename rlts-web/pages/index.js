@@ -1,6 +1,8 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import DataExplore from "../components/explore";
 import styles from '../styles/Home.module.css'
+import 'bootstrap/dist/css/bootstrap.css'
 
 export default function Home() {
   return (
@@ -17,10 +19,10 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Build on
-          <code className={styles.code}>IPFS/Filecoin</code>
+          Build on IPFS/Filecoin
         </p>
 
+        <DataExplore/>
       </main>
 
       <footer className={styles.footer}>
