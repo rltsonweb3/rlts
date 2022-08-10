@@ -78,7 +78,7 @@ async function processData(item_data){
         console.log('NFT data stored!')
         console.log('Metadata URI: ', metadata)
         await updateItem(con,item_data['auto_id'],metadata.url)
-        await sleep(5000)
+        await sleep(6000)
     }
 }
 function sleep(ms) {
